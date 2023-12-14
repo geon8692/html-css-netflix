@@ -32,7 +32,6 @@
 }
 
 .movie-list img:hover {
-    width: 10vw;
     transform: scale(1.4);
     cursor: pointer;
 }
